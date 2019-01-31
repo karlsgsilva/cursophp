@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'teste';
+        $nome='Joao ';
+        $sobrenome = "Dias";
+        echo "$nome $sobrenome";
         ?>
     </body>
 </html>
